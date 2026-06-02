@@ -23,3 +23,8 @@ tesu-venv\Scripts\activate     # Windows
 
 pip install -r requirements.txt
 
+## To run
+PYTHONPATH=. python3 -m src.main
+
+
+
