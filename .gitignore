@@ -1,0 +1,22 @@
+# Virtual Environment
+tesu-venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE/editor files
+.vscode
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Output
+output/
+
