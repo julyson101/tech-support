@@ -24,7 +24,9 @@ tesu-venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 
 ## To run
+Activate virtual environment: source tesu-venv/bin/activate
 PYTHONPATH=. python3 -m src.main
 
+Deactivate virtual environment: deactivate
 
 
