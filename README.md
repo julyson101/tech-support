@@ -28,6 +28,9 @@ Go to the application folder: cd /home/july/network-automation/tech-support
 Activate virtual environment: source tesu-venv/bin/activate
 Run the application: python -m src.main
 
+##
 Deactivate virtual environment: deactivate
 
+##
+Results are dumped to: /home/july/network-automation/tech-support/output
 
