@@ -24,8 +24,9 @@ tesu-venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 
 ## To run
+Go to the application folder: cd /home/july/network-automation/tech-support
 Activate virtual environment: source tesu-venv/bin/activate
-PYTHONPATH=. python3 -m src.main
+Run the application: python -m src.main
 
 Deactivate virtual environment: deactivate
 
